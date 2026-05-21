@@ -2,5 +2,5 @@
 Deber Grupal 1
 ## Integrantes del Grupo
 Naomi 
-Sumak
+Sumak 
 Diana Llivipuma
