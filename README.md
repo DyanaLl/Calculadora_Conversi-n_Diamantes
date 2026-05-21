@@ -4,3 +4,6 @@ Deber Grupal 1
 Naomi 
 Sumak 
 Diana Llivipuma
+# Evidencias
+[Flujograma](./Flujograma/flujogrma.png)
+[Tablero Kanban](./Tablero_Kanban/tablero.png)
