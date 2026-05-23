@@ -5,5 +5,5 @@ Naomi
 Sumak 
 Diana Llivipuma
 # Evidencias
-[Flujograma](./Flujograma/flujogrma.png)
-[Tablero Kanban](./Tablero_Kanban/tablero.png)
+[Flujograma](./DIAGRAMA_DE_FLUJO.jpg)
+[Tablero Kanban](./Tablero.jpeg)
