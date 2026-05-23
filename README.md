@@ -6,7 +6,7 @@ Sumak
 Diana Llivipuma
 # Evidencias
 [Flujograma](./DIAGRAMA_DE_FLUJO.jpg)
-[Tablero Kanban](./Tablero.jpeg)
+[Tablero Kanban](./Tablero_de_Kanban.jpeg)
 
 #Evidencias Uso de Terminales
 '''bash
@@ -22,7 +22,7 @@ git status
 #Agregar archivos
 git add README.md
 git add DIAGRAMA_DE_FLUJO.jpg
-gid add Tablero.jpeg
+gid add Tablero_de_Kanban.jpeg
 
 #Registrar cambios
 git commit -m "Agrego README y evidencias (flujograma y tablero)"
