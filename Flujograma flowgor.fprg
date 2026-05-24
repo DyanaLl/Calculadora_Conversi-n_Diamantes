@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="Flujograma flowgor"/>
+        <attribute name="authors" value="User"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2026-05-23 10:47:21 p.&#160;m."/>
+        <attribute name="created" value="VXNlcjtERVNLVE9QLUs2SFZPNjE7MjAyNi0wNS0yMzswNzo0MToyMiBwLsKgbS47MzA2Mw=="/>
+        <attribute name="edited" value="VXNlcjtERVNLVE9QLUs2SFZPNjE7MjAyNi0wNS0yMzsxMDo0NzoyMSBwLsKgbS47MTszMTcw"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="gemas" type="Integer" array="False" size=""/>
+            <assign variable="gemas" expression="100"/>
+            <declare name="pasebatalla" type="Integer" array="False" size=""/>
+            <assign variable="pasebatalla" expression="1500"/>
+            <declare name="Ingresocantidad" type="Integer" array="False" size=""/>
+            <input variable="Ingresocantidad"/>
+            <declare name="totalgemas" type="Integer" array="False" size=""/>
+            <assign variable="totalgemas" expression="Ingresocantidad * gemas"/>
+            <output expression="totalgemas" newline="True"/>
+            <if expression="totalgemas&gt;=pasebatalla">
+                <then>
+                    <output expression="&quot;Puedes Comprar&quot;" newline="True"/>
+                </then>
+                <else>
+                    <output expression="&quot;Saldo insuficiente&quot;" newline="True"/>
+                </else>
+            </if>
+        </body>
+    </function>
+</flowgorithm>
